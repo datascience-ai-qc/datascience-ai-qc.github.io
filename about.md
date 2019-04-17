@@ -25,7 +25,7 @@ of data.
 - I don't think you might need to know everything all you need is Passion.
 
 
-## We Will Cover Everything from beginning. By learning `Python`
+## We Will Cover Everything from beginning.
 
 #### Note: use this website to stay updated with current events.
 
