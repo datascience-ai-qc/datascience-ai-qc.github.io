@@ -3,17 +3,17 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            BlackDoc
+title:            Queens College Data Science & AI Club
 tagline:          Black Theme for Jekyll
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
+description:      "A collaborative learning place for people who are interested in learning about Data Science and Artificial Intelligence"
 url:              https://datascience-ai-qc.github.io
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
 author:
-  name:           Karlo Espiritu
-  url:            https://twitter.com/karloespiritu
+  name:           Muhammad
+  url:            https://twitter.com/muhammad_o7
 
 paginate:         5
 # paginate_path:    '/page:num'
