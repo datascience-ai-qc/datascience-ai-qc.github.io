@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Queens College Data Science & AI Club
-tagline:          Black Theme for Jekyll
+tagline:          Data Science and AI Club
 description:      "A collaborative learning place for people who are interested in learning about Data Science and Artificial Intelligence"
 url:              https://datascience-ai-qc.github.io
 baseurl:          /
