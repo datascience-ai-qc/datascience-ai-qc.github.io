@@ -7,36 +7,24 @@ information from huge amounts of useful data.For instance, UPS can use data to s
 Youtube can use data to recommend videos to its user and there are countless examples of
 companies using data to derive useful insights.
 
+Data Science can be divided into three different parts.
+
+- Data Visualization/Analysis
+- Data Science/Machine Learning 
+- Data Engineering.
 
 
+# Data Visualization/Analysis
+Data Analysis is the first step of Data Science. In this step data analyst use tools such as `Python`,`SQL` or `R` to aggregate and manipulate data.
+Data Analysis allows us to clean up the data using these tools so later it can be used to derive useful insights using Machine Learning.Furthermore, after cleaning up
+data it can also be visualized in order to make it look beautiful.
+
+# Data Science/Machine Learning
+This is the next step after cleaning up data. Once we have the useful data then it can be used for machine learning algorithms such as Logistical Regression,Linear Regression,
+Classification And Regression Trees and etc.
+
+# Data Engineering
+In simplest terms Data Engineering is role that makes sure that organization is using the right data for analysis.This can include building data pipelines and making sure that
+company is using clean data for the task. Furthermore, We will not cover much about this but it's good to have an insight.
 
 
-### Built on Poole
-
-Poole is the Jekyll Butler, serving as a foundation for creating Jekyll themes. Poole-based themes, such as BlackDoc here, include the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting using Pygments (the Python-based code snippet highlighter)
-
-### BlackDoc Features
-
-In addition to the features of [Poole](http://getpoole.com) and [Hyde](http://hyde.getpoole.com), BlackDoc theme adds the following:
-
-* Scrolling sidebar with a thin scrollbar to allow displaying of numerous top-level content.
-* Elements and classes of the Hyde theme were updated to look great in black background. Check out the [Theme Styles](styles) to see the stylings used in the theme.
-
-Check out the `Readme` of [Poole](https://github.com/poole/poole) and [Hyde](https://github.com/poole/hyde) theme to learn more about the features.
-
-### Browser support
-
-BlackDoc theme supports most modern browsers and only compatible with Internet Explorer 9 and above.
-
-### Download
-
-BlackDoc is a free Jekyll theme and hosted with GitHub. Head to the <a href="https://github.com/karloespiritu/BlackDoc">GitHub repository</a> to download.
-
-Cheers!
