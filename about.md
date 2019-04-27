@@ -8,7 +8,7 @@ title: About
 </p>
 
 ## About QC DataScience & AI Club
-Queens College DataScience and Artificial Club aims to cover the popular fields
+Queens College DataScience and AI Club aims to cover the popular fields
 of computer science such as artificial intelligence and data science.
 As we all know these two fields are really popular at the moment due to the rise 
 of big data. 
